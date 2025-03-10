@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-vqz%c6u#&@bvmrg9s7v7t%tsdnls=e(7h29--w_)51c!#_tdjb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://stock-market-server-lle7.onrender.com"]
+ALLOWED_HOSTS = ["stock-market-server-lle7.onrender.com"]
 
 
 # Application definition
